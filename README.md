@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maslick&show_icons=true&theme=radical)
 ### Hi there 👋
 
 - 💡 I am an AWS Certified Solutions Architect Associate (SAA-C02)
@@ -9,3 +10,5 @@
 - 🍭 I write clean code and maintain it
 - 👯 I commit to open-source
 - 🔭 I like to educate myself, open to cutting edge technologies and new challenges
+
+
