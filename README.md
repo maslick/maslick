@@ -2,8 +2,8 @@
 
 - 💡 I am an AWS Certified Solutions Architect Associate (SAA-C02)
 - 🌱 I love to design information systems' architecture
-- ⚡ I have 5+ years of experience with JVM languages
-- 🚀 I have 10+ years of experience in multiple IT areas
+- ⚡ I have 6+ years of experience with JVM languages
+- 🚀 I have 11+ years of experience in multiple IT areas
 - 💬 I love programming and am proud of my results
 - 🤔 I adopt a firm position about an issue
 - 🍭 I write clean code and maintain it
