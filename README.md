@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Pavel 👋
 
 [<img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="200"/>](https://www.credly.com/badges/f6d83830-9fb3-4e94-a680-df62f705b2f0/linked_in_profile)
 
