@@ -1,6 +1,6 @@
 ### Hi there, my name is Pavel 👋
 
-- 💡 I am an AWS Certified Solutions Architect Associate (SAA-C02)
+- 💡 I am an [AWS Certified Solutions Architect Associate (SAA-C02)](https://github.com/maslick/certifications/blob/master/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
 - 🌱 I love to design information systems' architecture
 - ⚡ I have 6+ years of experience with JVM languages
 - 🚀 I have 11+ years of experience in multiple IT areas
