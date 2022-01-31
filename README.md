@@ -1,5 +1,16 @@
 ### Hi there, my name is Pavel 👋
 
+<p>
+<a href="#">
+  <img height= "200px" align="center" src="https://github-readme-stats.vercel.app/api?username=maslick&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=dark&custom_title=Here%20are%20some%20of%20my%20stats" />
+</a>
+<a href="#">
+  <img height= "200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maslick&layout=compact&theme=dark&show_icons=true&langs_count=20&custom_title=Here%20are%20some%20languages%20I%27ve%20used" />
+</a>
+</p>
+
+
+
 - 💡 I am an [AWS Certified Solutions Architect Associate (SAA-C02)](https://github.com/maslick/certifications/blob/master/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
 - 🌱 I love to design information systems' architecture
 - ⚡ I have 6+ years of experience with JVM languages
@@ -14,9 +25,3 @@
 [<img src="https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" width="200"/>](https://www.credly.com/badges/c503e4dc-5946-45d2-aee1-35db5869a742)
 
 
-<a href="#">
-  <img height= "200px" align="center" src="https://github-readme-stats.vercel.app/api?username=maslick&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=dark&custom_title=Here%20are%20some%20of%20my%20stats" />
-</a>
-<a href="#">
-  <img height= "200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maslick&layout=compact&theme=dark&show_icons=true&langs_count=20&custom_title=Here%20are%20some%20languages%20I%27ve%20used" />
-</a>
