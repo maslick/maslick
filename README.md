@@ -1,4 +1,4 @@
-### Hi there, my name is Pavel 👋
+### Hi there, my name is Paul 👋
 
 <p>
 <a href="#">
