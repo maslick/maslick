@@ -1,11 +1,11 @@
 ### Hi there, my name is Paul 👋
 
-
+<!---
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maslick&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maslick&theme=tokyonight" />
 </p>
-
+-->
 
 
 - 💡 I am an [AWS Certified Solutions Architect Associate (SAA-C02)](https://github.com/maslick/certifications/blob/master/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
