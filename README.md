@@ -1,15 +1,11 @@
 ### Hi there, my name is Paul 👋
 
-<!---
-<p>
-<a href="#">
-  <img height= "200px" align="center" src="https://github-readme-stats.vercel.app/api?username=maslick&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=dark&custom_title=Here%20are%20some%20of%20my%20stats" />
-</a>
-<a href="#">
-  <img height= "200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maslick&layout=compact&theme=dark&show_icons=true&langs_count=20&custom_title=Here%20are%20some%20languages%20I%27ve%20used" />
-</a>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maslick&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maslick&theme=tokyonight" />
 </p>
---->
+
 
 
 - 💡 I am an [AWS Certified Solutions Architect Associate (SAA-C02)](https://github.com/maslick/certifications/blob/master/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
@@ -35,8 +31,6 @@
 [<img src="https://images.credly.com/size/680x680/images/6099a08b-d18c-4f36-ad4e-b519c58eb0f1/image.png" width="200"/>](https://www.credly.com/badges/51cfc547-7c52-4200-bf3c-fe2fd6a24d9d/public_url)
 [<img src="https://images.credly.com/size/680x680/images/9edd31ec-8707-47b0-ab44-21865a1d8d11/image.png" width="200"/>](https://www.credly.com/badges/4466fa96-bd47-46d2-8528-4140cacedc0d/public_url)
 [<img src="https://images.credly.com/size/680x680/images/06544cb3-dd5b-4406-8615-95ae3c884e14/image.png" width="200"/>](https://www.credly.com/badges/53d7fdd3-574c-476f-b2a0-ef5414e91e05)
-
-
 
 
 
