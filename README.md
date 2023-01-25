@@ -25,7 +25,7 @@
 [<img src="https://images.credly.com/size/680x680/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" width="200"/>](https://www.credly.com/badges/67b2d91c-fe5e-4d1c-81f7-f1574d73e511/public_url)
 [<img src="https://images.credly.com/size/680x680/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png" width="200"/>](https://www.credly.com/badges/3317d883-743b-4f9c-80a4-38a30beba2a5/public_url)
 [<img src="https://images.credly.com/size/680x680/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png" width="200"/>](https://www.credly.com/badges/5629a4a3-5bac-45b5-9d01-71c19cc12d00/public_url)
-[<img src="https://images.credly.com/size/680x680/images/9b897c01-01bb-4f2c-819c-cdf95080d738/image.png" width="200"/>](https://www.credly.com/org/amazon-web-services/badge/aws-partner-aws-govcloud-us-essentials-business)
+[<img src="https://images.credly.com/size/680x680/images/9b897c01-01bb-4f2c-819c-cdf95080d738/image.png" width="200"/>](https://www.credly.com/badges/3f27e97a-b885-4f1d-bb50-c9e267e5e7a7/public_url)
 
 
 [<img src="https://images.credly.com/size/680x680/images/6099a08b-d18c-4f36-ad4e-b519c58eb0f1/image.png" width="200"/>](https://www.credly.com/badges/51cfc547-7c52-4200-bf3c-fe2fd6a24d9d/public_url)
