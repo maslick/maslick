@@ -35,7 +35,7 @@
 [<img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="200"/>](https://www.credly.com/badges/208d80e5-4866-42bb-9727-4fca6bed5287/public_url)
 [<img src="https://images.credly.com/size/680x680/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png" width="200"/>](https://www.credly.com/badges/53d7fdd3-574c-476f-b2a0-ef5414e91e05/public_url)
 [<img src="https://images.credly.com/size/680x680/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png" width="200"/>](https://www.credly.com/badges/fda7a71f-dd30-4d8d-8cfd-c27ce1d91bf1/public_url)
-[<img src="https://images.credly.com/size/680x680/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="200"/>](https://www.credly.com/badges/fda7a71f-dd30-4d8d-8cfd-c27ce1d91bf1/public_url)
+[<img src="https://images.credly.com/size/680x680/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="200"/>](https://www.credly.com/badges/9cd31004-95ee-44d5-ba75-941b59c92b64/public_url)
 
 
 
