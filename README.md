@@ -42,6 +42,7 @@
 [<img src="https://images.credly.com/size/680x680/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png" width="200"/>](https://www.credly.com/badges/fda7a71f-dd30-4d8d-8cfd-c27ce1d91bf1/public_url)
 [<img src="https://images.credly.com/size/680x680/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png" width="200"/>](https://www.credly.com/badges/d6f8bea8-9ef4-4180-9edc-2342e9e45d60/public_url)
 [<img src="https://images.credly.com/size/680x680/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png" width="200"/>](https://www.credly.com/badges/b424cbbc-87f4-4764-8e41-c490023c327b/public_url)
+[<img src="https://images.credly.com/size/680x680/images/d7c2b294-d08e-4795-a342-88fc34df7e01/image.png" width="200"/>](https://www.credly.com/org/amazon-web-services/badge/aws-learning-data-migration)
 
 
 
