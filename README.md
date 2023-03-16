@@ -44,7 +44,7 @@
 [<img src="https://images.credly.com/size/680x680/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png" width="200"/>](https://www.credly.com/badges/b424cbbc-87f4-4764-8e41-c490023c327b/public_url)
 [<img src="https://images.credly.com/size/680x680/images/d7c2b294-d08e-4795-a342-88fc34df7e01/image.png" width="200"/>](https://www.credly.com/badges/adce7276-25c8-4e7b-a23b-be1d1dc35148/public_url)
 [<img src="https://images.credly.com/size/680x680/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png" width="200"/>](https://www.credly.com/badges/ab43df9c-1e57-4a32-9d2a-845b0d56aa1e/public_url)
-[<img src="https://images.credly.com/size/680x680/images/526ad7ad-52f2-4922-9fa8-879fea71e286/image.png" width="200"/>](https://www.credly.com/org/amazon-web-services/badge/aws-learning-storage-technologist)
+[<img src="https://images.credly.com/size/680x680/images/526ad7ad-52f2-4922-9fa8-879fea71e286/image.png" width="200"/>](https://www.credly.com/badges/34327c42-1e4a-4115-8387-12ade5f21775/public_url)
 
 
 
