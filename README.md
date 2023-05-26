@@ -8,15 +8,17 @@
 -->
 
 
-- 💡 I am an [AWS Certified Solutions Architect Associate (SAA-C02)](https://github.com/maslick/certifications/blob/master/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
-- 🌱 I love to design information systems' architecture
-- 🚀 I have 13+ years of professional experience in multiple IT areas
-- ⚡ I have 6+ years of experience with JVM languages
-- 💬 I love programming and am proud of my results
-- 🤔 I adopt a firm position about an issue
-- 🍭 I write clean code and maintain it
-- 👯 I commit to open-source
-- 🔭 I like to educate myself, open to cutting edge technologies and new challenges
+- 💡 I am an [AWS Certified Solutions Architect Associate (SAA-C02)](https://github.com/maslick/certifications/blob/master/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf).
+- 🌱 I thoroughly enjoy designing information systems' architecture.
+- 🔥 I have acquired a versatile skillset with over 19 years of extensive engineering experience.
+- 🚀 I possess a solid 13+ years of professional expertise in various domains within the IT industry.
+- ⚡ I bring 6+ years of expertise in JVM languages.
+- 💬 Programming is my passion, and I take great pride in my accomplished results.
+- 🤔 I hold a firm stance on critical issues, guided by well-informed perspectives.
+- 🍭 I prioritize writing clean code and ensuring its maintenance.
+- 👯 I am dedicated to actively participating in open-source initiatives.
+- 🔭 I am passionate about lifelong learning, embracing innovation and new challenges.
+
 
 [<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200"/>](https://www.credly.com/badges/f6d83830-9fb3-4e94-a680-df62f705b2f0)
 [<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="200"/>](https://www.credly.com/badges/c503e4dc-5946-45d2-aee1-35db5869a742)
