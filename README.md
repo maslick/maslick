@@ -8,7 +8,7 @@
 -->
 
 
-- 💡 I am an [AWS Certified Solutions Architect Associate (SAA-C02)](https://github.com/maslick/certifications/blob/master/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf).
+- 💡 I am an [AWS Certified Solutions Architect Associate (SAA-C03)](https://github.com/maslick/certifications/blob/master/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf).
 - 🌱 I thoroughly enjoy designing information systems' architecture.
 - 🔥 I have acquired a versatile skillset with over 19 years of extensive engineering experience.
 - 🚀 I possess a solid 13+ years of professional expertise in various domains within the IT industry.
