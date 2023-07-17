@@ -12,7 +12,7 @@
 - 🌱 I thoroughly enjoy designing information systems' architecture.
 - 🔥 I have acquired a versatile skillset with over 19 years of extensive engineering experience.
 - 🚀 I possess a solid 13+ years of professional expertise in various domains within the IT industry.
-- ⚡ I bring 6+ years of expertise in JVM languages.
+- ⚡ I bring 6+ years of expertise in JVM languages (mainly Java and Kotlin).
 - ☁️ I have got 3+ years of experience building solutions on AWS on a daily basis.
 - 💬 Programming is my passion, and I take great pride in my accomplished results.
 - 🤔 I hold a firm stance on critical issues, guided by well-informed perspectives.
