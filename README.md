@@ -8,13 +8,13 @@
 -->
 
 
-- 👨‍💻 I'm an AWS Certified [Solutions Architect](https://github.com/maslick/certifications/blob/master/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf) (SAA-C03) and [Developer](https://github.com/maslick/certifications/blob/master/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf) (DVA-C02) Associate.
-- 🌱 I thoroughly enjoy designing information systems' architecture.
+- 🚀 I'm an AWS Certified [Solutions Architect](https://github.com/maslick/certifications/blob/master/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf) (SAA-C03) and [Developer](https://github.com/maslick/certifications/blob/master/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf) (DVA-C02) Associate.
+- ☁️ I thoroughly enjoy designing cloud architecture.
+- 👨‍💻 Programming is my passion, and I take great pride in my accomplished results.
 - 🔥 I have acquired a versatile skillset with over 19 years of extensive engineering experience.
-- 🚀 I possess a solid 13+ years of professional expertise in various domains within the IT industry.
+- 💬 I possess a solid 13+ years of professional expertise in various domains within the IT industry.
 - ⚡ I bring 6+ years of expertise in JVM languages (mainly Java and Kotlin).
 - 💡 I have got 3+ years of experience building solutions on AWS on a daily basis.
-- 💬 Programming is my passion, and I take great pride in my accomplished results.
 - 🤔 I hold a firm stance on critical issues, guided by well-informed perspectives.
 - 🍭 I prioritize writing clean code and ensuring its maintenance.
 - 👯 I am dedicated to actively participating in open-source initiatives.
