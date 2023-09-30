@@ -32,12 +32,12 @@
 
 [<img src="https://images.credly.com/size/680x680/images/6099a08b-d18c-4f36-ad4e-b519c58eb0f1/image.png" width="200"/>](https://www.credly.com/badges/51cfc547-7c52-4200-bf3c-fe2fd6a24d9d/public_url)
 [<img src="https://images.credly.com/size/680x680/images/9edd31ec-8707-47b0-ab44-21865a1d8d11/image.png" width="200"/>](https://www.credly.com/badges/4466fa96-bd47-46d2-8528-4140cacedc0d/public_url)
-[<img src="https://images.credly.com/size/680x680/images/ae1844f8-833d-4241-b026-dd6cc50319d1/image.png" width="200"/>](https://www.credly.com/org/amazon-web-services/badge/aws-partner-generative-ai-essentials-business)
+[<img src="https://images.credly.com/size/680x680/images/ae1844f8-833d-4241-b026-dd6cc50319d1/image.png" width="200"/>](https://www.credly.com/badges/41367c63-5203-449a-8a98-6d6a27db2174/public_url)
 
 [<img src="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="200"/>](https://www.credly.com/badges/418b2eb7-499f-4f1e-b840-045ee1a5bb72/public_url)
 [<img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="200"/>](https://www.credly.com/badges/208d80e5-4866-42bb-9727-4fca6bed5287/public_url)
 [<img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="200"/>](https://www.credly.com/badges/07adcb04-0b0e-4224-b346-0e9b4096c9ef/public_url)
-[<img src="https://images.credly.com/size/680x680/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png" width="200"/>](https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-networking-core)
+[<img src="https://images.credly.com/size/680x680/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png" width="200"/>](https://www.credly.com/badges/bf78ecde-94d9-438a-82d2-a9846059c5ed/public_url)
 
 [<img src="https://images.credly.com/size/680x680/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png" width="200"/>](https://www.credly.com/badges/8449c488-5f56-4878-b147-6323d59ff0e0/public_url)
 [<img src="https://images.credly.com/size/680x680/images/0c6f66be-4cd6-4d98-b132-a9a87dc6ecbe/image.png" width="200"/>](https://www.credly.com/badges/004e7bfe-9a43-4264-b3bd-f7013be0d291/public_url)
