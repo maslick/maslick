@@ -52,7 +52,9 @@
 [<img src="https://images.credly.com/size/680x680/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png" width="200"/>](https://www.credly.com/badges/ab43df9c-1e57-4a32-9d2a-845b0d56aa1e/public_url)
 [<img src="https://images.credly.com/size/680x680/images/526ad7ad-52f2-4922-9fa8-879fea71e286/image.png" width="200"/>](https://www.credly.com/badges/34327c42-1e4a-4115-8387-12ade5f21775/public_url)
 
-
+[<img src="https://images.credly.com/size/680x680/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png" width="200"/>](https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-lambda/public_url)
+[<img src="https://images.credly.com/size/680x680/images/7e5e1967-439e-48e5-a913-625c712b2dc5/image.png" width="200"/>](https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-amazon-ecs-on-aws-fargate/public_url)
+[<img src="https://images.credly.com/size/680x680/images/eea64560-121f-4437-af9c-91cf20968d35/image.png" width="200"/>](https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-app-runner/public_url)
 
 
 
