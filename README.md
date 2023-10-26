@@ -33,7 +33,7 @@
 [<img src="https://images.credly.com/size/680x680/images/6099a08b-d18c-4f36-ad4e-b519c58eb0f1/image.png" width="200"/>](https://www.credly.com/badges/51cfc547-7c52-4200-bf3c-fe2fd6a24d9d/public_url)
 [<img src="https://images.credly.com/size/680x680/images/9edd31ec-8707-47b0-ab44-21865a1d8d11/image.png" width="200"/>](https://www.credly.com/badges/4466fa96-bd47-46d2-8528-4140cacedc0d/public_url)
 [<img src="https://images.credly.com/size/680x680/images/ae1844f8-833d-4241-b026-dd6cc50319d1/image.png" width="200"/>](https://www.credly.com/badges/41367c63-5203-449a-8a98-6d6a27db2174/public_url)
-[<img src="https://images.credly.com/size/680x680/images/2fdbfaed-d3e4-4cf1-b8c7-3acedeb85c0e/image.png" width="200"/>](https://www.credly.com/org/amazon-web-services/badge/aws-partner-migration-ambassador-2023-business)
+[<img src="https://images.credly.com/size/680x680/images/2fdbfaed-d3e4-4cf1-b8c7-3acedeb85c0e/image.png" width="200"/>](https://www.credly.com/badges/0d5f4804-c777-44d5-b7f9-8909cd4093e5/public_url)
 
 [<img src="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="200"/>](https://www.credly.com/badges/418b2eb7-499f-4f1e-b840-045ee1a5bb72/public_url)
 [<img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="200"/>](https://www.credly.com/badges/208d80e5-4866-42bb-9727-4fca6bed5287/public_url)
