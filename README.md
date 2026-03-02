@@ -26,7 +26,7 @@
 [<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="200"/>](https://www.credly.com/badges/c503e4dc-5946-45d2-aee1-35db5869a742/public_url)
 
 [<img src="https://images.credly.com/images/8f006312-3154-45bf-a845-4a043641e83c/blob" width="200"/>](https://www.credly.com/badges/67b2d91c-fe5e-4d1c-81f7-f1574d73e511/public_url)
-[<img src="https://images.credly.com/images/5749832b-21b7-47f9-9ad4-b2fef13d0454/blob" width="200"/>](https://www.credly.com/badges/3317d883-743b-4f9c-80a4-38a30beba2a5/public_url)
+[<img src="https://images.credly.com/size/680x680/images/1ba189ae-4afb-4c3b-ae89-f3da3c054f05/blob" width="200"/>](https://www.credly.com/badges/3317d883-743b-4f9c-80a4-38a30beba2a5/public_url)
 [<img src="https://images.credly.com/images/46ea4542-72a8-46a1-8d68-b72c4ca50820/blob" width="200"/>](https://www.credly.com/badges/5629a4a3-5bac-45b5-9d01-71c19cc12d00/public_url)
 [<img src="https://images.credly.com/images/6cd2843d-8f01-4099-ae1a-321d6382f459/blob" width="200"/>](https://www.credly.com/badges/3dcbd945-f0ab-4788-aace-9ccd90fa4c62/public_url)
 
